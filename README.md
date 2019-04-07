@@ -1,4 +1,4 @@
-#Variables Exercise 2
+# Variables Exercise 2
  
 Task 1
 Position the elements as seen in the pictures. Design for mobile first and then desktop. Breakpoint: 600px.
